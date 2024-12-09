@@ -58,3 +58,17 @@ Hola ahí!👋🏼 Sé que internet hay bastante información desperdigada, sin 
 - [FCEYE]( https://fceye.us.es/investigacion/grupos-de-investigacion/economia-historia-economica-y-metodos-cuantitativos "FCEYE link"): la facultad de ciencias económicas y empresariales brinda los contactos de los investigadores especialistas en áreas de economía historia económica y métodos cuantitativos
 - [NBER]( https://www.nber.org/career-resources/research-assistant-positions-not-nber "NBERG link"): dentro de Bureau nacional presentan posiciones para asistentes investigadores
   
+## 🔐 Syllabus económica - Bachillerato
+- [LaSalle filosofía]( https://www.salleurl.edu/es/estudios/master-universitario-en-data-science/plan-estudios)
+- [LaSalle data]( https://www.salleurl.edu/es/estudios/grado-en-business-intelligence-y-data-analytics/plan-estudios)
+- [UNI](https://acreditacion.uni.edu.pe/es/economics/curriculum/ )
+- [UPEcon]( https://www.up.edu.pe/en/degrees-graduate-studies-languages/undergraduates-degrees/economics/PublishingImages/Paginas/plan-estudios/malla_curricular_economia.pdf )
+- [Política, filosofía y economía (UP)]( https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/politica-filosofia-economia/Paginas/plan-estudios.aspx )
+- [UNMSM](https://economia.unmsm.edu.pe/escuela/econ_pub.htm )
+- [UNSA]( https://fec.unsa.edu.pe/blog/2022/09/15/silabos-semestre-2022-a/ )
+
+
+
+
+
+
