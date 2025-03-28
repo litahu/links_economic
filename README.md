@@ -12,7 +12,8 @@ Hola ahí!👋🏼 Sé que internet hay bastante información desperdigada, sin 
 ## 🌐 Data & Estadística
 - [OBELA](https://www.obela.org/estadisticas/fuentes/banco-centrales  "OBELA link"): es el observatorio económico latinoamericano
 - [CESLA]( https://www.cesla.com/base-datos-estadisticas-economia.php "CESLA link"): es el círculo de estudios latinoamericanos
-
+- [Datos abiertos](https://www.datosabiertos.gob.pe/): es la plataforma nacional de estado peruano
+  
 ## 📣 Noticias Económicas
 #### ▶️ Periódicos
 - [Persuación](https://www.persuasion.community/ "Persuación link")
