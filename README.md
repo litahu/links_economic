@@ -9,7 +9,8 @@ Hola ahí!👋🏼 Sé que internet hay bastante información desperdigada, sin 
 - [Publicaciones, informes de instituciones](##publicaciones,-informes-de-instituciones)
 - [Grupo de Investigación por área]( ##grupo-de-investigación-por-área)
 
-## 🌐 Data & Estadística
+## 🌐 Data & Estadística pública
+- [**UC Irvine**](https://archive.ics.uci.edu/): Repositorio de datos para proyectos de Machine Learning
 - [OBELA](https://www.obela.org/estadisticas/fuentes/banco-centrales  "OBELA link"): es el observatorio económico latinoamericano
 - [CESLA]( https://www.cesla.com/base-datos-estadisticas-economia.php "CESLA link"): es el círculo de estudios latinoamericanos
 - [Datos abiertos](https://www.datosabiertos.gob.pe/): es la plataforma nacional de estado peruano
